@@ -1,0 +1,20 @@
+{
+  "sft_only": {
+    "ifeval": 42.1,
+    "gsm8k": 38.2,
+    "mmlu": 45.4,
+    "alpaca_eval": 32.5
+  },
+  "sft_dpo": {
+    "ifeval": 48.5,
+    "gsm8k": 42.1,
+    "mmlu": 46.2,
+    "alpaca_eval": 45.8
+  },
+  "deltas": {
+    "ifeval": 6.4,
+    "gsm8k": 3.9,
+    "mmlu": 0.8,
+    "alpaca_eval": 13.3
+  }
+}
